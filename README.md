@@ -30,9 +30,3 @@ Estou em busca da minha primeira oportunidade como **programador júnior** ou **
 **Um pouco do meu momento**
 
 Comecei estudando a lógica por trás da programação e hoje já consigo estruturar pequenos sistemas aplicando Programação Orientada a Objetos. Gosto especialmente da parte de back-end — pensar em como os dados se organizam e se comunicam por trás de uma aplicação. Também uso ferramentas de IA no dia a dia como apoio para estudar e resolver problemas mais rápido.
-
----
-
-📊 *um retrato dos meus repositórios, atualizado automaticamente:*
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Rrobertolucena&show_icons=true&theme=radical&hide_border=true)
