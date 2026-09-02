@@ -1,16 +1,38 @@
-## Hi there 👋
+### oi, eu sou o Roberto 🖐️
 
-<!--
-**Rrobertolucena/Rrobertolucena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+public class Roberto {
+    public static void main(String[] args) {
+        System.out.println("Estudante de ADS | Focado em back-end | Sempre aprendendo");
+    }
+}
+```
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**O que eu ando estudando**
+
+| Área | Tecnologia |
+|---|---|
+| Linguagem principal | Java |
+| Banco de dados | SQL |
+| Versionamento | Git / GitHub |
+| Também estudando | Python |
+
+---
+
+**Pra onde eu quero ir**
+
+Estou em busca da minha primeira oportunidade como **programador júnior** ou **estagiário em tecnologia** — um lugar onde eu possa aplicar o que venho estudando e continuar evoluindo na prática.
+
+---
+
+**Um pouco do meu momento**
+
+Comecei estudando a lógica por trás da programação e hoje já consigo estruturar pequenos sistemas aplicando Programação Orientada a Objetos. Gosto especialmente da parte de back-end — pensar em como os dados se organizam e se comunicam por trás de uma aplicação. Também uso ferramentas de IA no dia a dia como apoio para estudar e resolver problemas mais rápido.
+
+---
+
+📊 *um retrato dos meus repositórios, atualizado automaticamente:*
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Rrobertolucena&show_icons=true&theme=radical&hide_border=true)
